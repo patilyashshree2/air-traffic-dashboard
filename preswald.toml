@@ -1,0 +1,21 @@
+[project]
+title = "Preswald Project"
+version = "0.1.0"
+port = 8501
+slug = "preswald-project"  
+entrypoint = "hello.py"    
+
+[branding]
+name = "Air Traffic Analysis"
+logo = "images/airplane.png"
+favicon = "images/airplane.ico"
+primaryColor = "#F89613"
+
+[data.sample_csv]
+type = "csv"
+path = "data/Air_Traffic_Passenger_Statistics.csv"
+# path = "data/sample.csv"
+
+[logging]
+level = "INFO"  
+format = "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
