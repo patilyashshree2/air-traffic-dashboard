@@ -97,3 +97,13 @@ Build data-driven visualizations to uncover insights
 It is a lightweight, efficient example of using low-code tools like Preswald with Python to explore public datasets quickly and visually.
 
 
+EXPECTED RESULT:
+
+<img width="693" alt="image" src="https://github.com/user-attachments/assets/a2fe3ea3-9de3-488a-b638-35a85e2da4ae" />
+<img width="684" alt="image" src="https://github.com/user-attachments/assets/787c28ac-ff43-424e-a4e8-a7f8725ad1fc" />
+
+
+
+
+
+
